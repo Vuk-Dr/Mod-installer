@@ -74,5 +74,8 @@
   {
     "url": "https://www.curseforge.com/api/v1/mods/896746/files/5697384/download",
     "fileName": "amendments.jar"
-  }
+  },
+    {
+        "url": "https://www.curseforge.com/api/v1/mods/316582/files/5661478/download",
+        "fileName": "corpse.jar"
 ]
