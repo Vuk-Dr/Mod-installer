@@ -74,5 +74,9 @@
     {
         "url": "https://www.curseforge.com/api/v1/mods/316582/files/5661478/download",
         "fileName": "corpse.jar"
+    },
+    {
+        "url": "https://www.curseforge.com/api/v1/mods/328085/files/5689514/download",
+        "fileName": "create.jar"
     }
 ]
