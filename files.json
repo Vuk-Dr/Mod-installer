@@ -78,5 +78,9 @@
     {
         "url": "https://www.curseforge.com/api/v1/mods/328085/files/5689514/download",
         "fileName": "create.jar"
+    },
+    {
+        "url": "https://www.curseforge.com/api/v1/mods/646668/files/5598857/download",
+        "fileName": "create_big_cannons.jar"
     }
 ]
