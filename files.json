@@ -20,7 +20,7 @@
       "fileName": "item_banning.jar"
     },
     {
-      "url": "https://www.curseforge.com/api/v1/mods/499980/files/5702363/download",
+      "url": "https://www.curseforge.com/api/v1/mods/499980/files/5831465/download",
       "fileName": "moonlight_api.jar"
     },
     {
@@ -36,8 +36,8 @@
       "fileName": "embeddium_lightning.jar"
     },
     {
-      "url": "https://www.curseforge.com/api/v1/mods/665658/files/5089991/download",
-      "fileName": "canary.jar"
+      "url": "https://www.curseforge.com/api/v1/mods/570017/files/5706069/download",
+      "fileName": "radium.jar"
     },
     {
       "url": "https://www.curseforge.com/api/v1/mods/509041/files/5780702/download",
@@ -68,11 +68,11 @@
       "fileName": "simple_farming.jar"
     },
   {
-    "url": "https://www.curseforge.com/api/v1/mods/896746/files/5697384/download",
+    "url": "https://www.curseforge.com/api/v1/mods/896746/files/5820238/download",
     "fileName": "amendments.jar"
   },
     {
-        "url": "https://www.curseforge.com/api/v1/mods/316582/files/5661478/download",
+        "url": "https://www.curseforge.com/api/v1/mods/316582/files/5816907/download",
         "fileName": "corpse.jar"
     },
     {
@@ -80,7 +80,11 @@
         "fileName": "create.jar"
     },
     {
-        "url": "https://www.curseforge.com/api/v1/mods/646668/files/5598857/download",
+        "url": "https://www.curseforge.com/api/v1/mods/646668/files/5812633/download",
         "fileName": "create_big_cannons.jar"
+    },
+    {
+        "url": "https://www.curseforge.com/api/v1/mods/448233/files/5672088/download",
+        "fileName": "entity_culling.jar"
     }
 ]
